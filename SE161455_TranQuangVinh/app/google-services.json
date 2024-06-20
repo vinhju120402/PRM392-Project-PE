@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183726665951",
+    "project_id": "se161455-tranquangvinh",
+    "storage_bucket": "se161455-tranquangvinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183726665951:android:ce9e092cde8689ffe6b96a",
+        "android_client_info": {
+          "package_name": "com.vinh.se161455_tranquangvinh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPhpWZVecfd-1x6cuoW2wzyuODdp64hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
